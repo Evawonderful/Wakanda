@@ -1,0 +1,47 @@
+.btn-outline-success{
+    background-color: #FFFF !important;
+    border: 1px solid #00A85A !important;
+  
+    color: #648b7a !important;
+    opacity: 1 !important;
+}
+.btn-outline-success:hover{
+    background: var(---ffffff) 0% 0% no-repeat padding-box !important;
+    border: 1px solid #00a85a !important; 
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 15px 15px #18A75D26 !important;
+    border: 2px solid #00A85A !important;
+    opacity: 1 !important;
+}
+.btn-success{
+    background: #00A85A !important;
+    border: 1px solid #00a85a !important; 
+
+}
+.btn-success:hover{
+    background-color: #00A85A !important;
+    font-size: 15px !important;
+    border: 1px solid #00A85A !important;
+}
+
+.button{
+    
+    border-radius: 4px !important;
+    font: bold Raleway !important;
+    letter-spacing: 0.78px !important;
+    box-shadow: 0px 15px 15px #18A75D26 !important;
+
+}
+.nav-link{
+    font-weight : bold;
+    
+}
+
+.nav-link:hover{
+    color: #00a85a !important;
+}
+
+.nav-item:active{
+    color: #00a85a !important;
+    border-bottom: 4px solid #00a85a !important;
+}
