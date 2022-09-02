@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import { Link } from "react-scroll";
 import Stack from "react-bootstrap/Stack"
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
@@ -18,42 +19,42 @@ const Header= () => {
         return(
           
 
-                <Navbar bg="light" variant="light" className="shadow py-0">
+                <Navbar collapseOnSelect bg="light" variant="light" expand="lg" className="shadow">
                     <Container>
                         
-                        <Navbar.Brand href="#" className="ms-auto">
+                        <Navbar.Brand href="#" className="">
                             <img 
                                 width="100"
                                 height="100"
                                 className="d-inline-block align-top"
                                 alt="wakanda-logo" src={logo}/>
                         </Navbar.Brand>
-                        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
 
-                        <Navbar.Collapse id="basic-navbar-nav" className="">
-                            <Nav className="flex-grow-1">
+                        <Navbar.Collapse id="responsive-navbar-nav" className="d-flex justify-content-lg-end">
+                            <Nav className="ml-auto">
                             
-                                <Nav.Item className="nav-link ms-auto">
-                                    <Nav.Link href="#">Features</Nav.Link>
+                                <Nav.Item className="nav-link ">
+                                    <Nav.Link eventKey="1" as={Link} to="features">Features</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item className="nav-link">
-                                    <Nav.Link href="#">Pricing</Nav.Link>
+                                    <Nav.Link eventKey="2" as={Link} to="pricing">Pricing</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item className="nav-link ">
-                                    <Nav.Link href="#">FAQs</Nav.Link>
+                                    <Nav.Link eventKey="3" as={Link} to="faqs">FAQs</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item className="nav-link">
-                                    <Nav.Link href="#">Contacts</Nav.Link>
+                                    <Nav.Link eventKey="3" as={Link} to="contacts">Contacts</Nav.Link>
                                 </Nav.Item>
                                
-                                    <Stack className="ms-auto"
+                                    <Stack className="ms-auto" 
                                     direction="horizontal" 
                                     gap={3}
                                     
                                     >
-                                    <Button variant="outline-success" className="login button">LOG IN </Button>
+                                    <Button  variant="outline-success" className="login button">LOG IN </Button>
 
-                                    <Button className="button" variant="success" value="GET STARTED" onMouseOver= {handleHover}>{buttonText}</Button>
+                                    <Button className="button" variant="success"  onMouseOver= {handleHover}>{buttonText}</Button>
                                 </Stack>
                                 
                                 

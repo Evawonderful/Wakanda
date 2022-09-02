@@ -1,0 +1,27 @@
+.ebook-title{
+    text-align: left;
+    font: normal normal bold 24px Raleway;
+    letter-spacing: 2.4px;
+    color: #00A85A;
+    opacity: 1;
+}
+
+.ebook-col{
+    margin-left: 10%
+}
+
+.ebook-text{
+    width: 210px;
+    font: normal normal bold 14px Raleway;
+    letter-spacing: 2px;
+    color: #163828;
+    text-transform: capitalize;
+
+}
+
+.now-btn{
+    
+    font-size: 10px;
+    margin-left: 16%;
+    border-radius: 2px;
+}

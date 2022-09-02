@@ -1,0 +1,26 @@
+.link-secondary{
+    color: #ffff !important;
+    font: normal normal bold 14px Raleway !important;
+    letter-spacing: 0.77px;
+    font-weight: normal !important;
+}
+
+.link-success{
+    
+    text-align: left !important;
+    font: normal normal bold 14px Raleway !important;
+    letter-spacing: 0.77px !important;
+    color: #A9D046 !important;
+    opacity: 1 !important;
+}
+
+.link-secondary:hover{
+    color: #A9D046 !important;
+    
+}
+
+.footer-body{
+    margin-top: 10%;
+    height: 70%;
+    z-index: -1 !important;
+}

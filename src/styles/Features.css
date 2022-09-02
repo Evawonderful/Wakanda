@@ -1,0 +1,47 @@
+.features{
+    background-color: #EFF7F0 !important;
+    padding-top: 50px;
+    text-align: center
+}
+
+.feature-header{
+    padding: 5px;
+    border-bottom: 4px solid #00a85a;
+    text-align: center !important;
+    font: 900 20px Raleway !important;
+}
+
+.feature-caption{
+    margin-top: 30px;
+    font: medium 30px Raleway;
+    letter-spacing: 1.56px;
+    color: #163828;
+    opacity: 1;
+}
+
+.biz{
+    margin-bottom: 10px !important;
+    text-align: start !important;
+    font: normal normal bold 15px Raleway;
+    letter-spacing: 1.92px;
+    color: #00A85A;
+    text-transform: uppercase;
+    opacity: 1;
+    border-bottom: 2px solid #A9D046 ;
+}
+
+.biz-icons{
+    width: 90px;
+    height: 90px;
+   
+}
+
+.biz-caption{
+     font: normal normal medium 9px Raleway;
+    
+}
+
+.biz-text{
+    font: normal normal  13px Raleway;
+   
+}
