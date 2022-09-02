@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cd785fb.css",
-    "main.js": "/static/js/main.4f82f317.js",
-    "static/js/787.9fa5f00a.chunk.js": "/static/js/787.9fa5f00a.chunk.js",
-    "static/media/Group 971.png": "/static/media/Group 971.0b8bb902d9ff83102838.png",
-    "static/media/ebook.png": "/static/media/ebook.8c2dabbb07457a850eae.png",
-    "static/media/Group 1187.png": "/static/media/Group 1187.313abb22a3bf73d38dfb.png",
-    "static/media/Group 975.png": "/static/media/Group 975.ec7a123c42378b8d1ff5.png",
-    "static/media/Group 951.png": "/static/media/Group 951.87d84f4ed0bec34a0b8f.png",
-    "static/media/layer1.png": "/static/media/layer1.a7e3e1e9e77a6447e3ce.png",
-    "static/media/global-connection.png": "/static/media/global-connection.6b7e645e99708f84d4f3.png",
-    "static/media/email-marketing.png": "/static/media/email-marketing.adf4287461c9364a8619.png",
-    "static/media/wakanda.svg": "/static/media/wakanda.efb4f6ba1abc5d9e768ae1251d570f07.svg",
-    "index.html": "/index.html",
-    "main.5cd785fb.css.map": "/static/css/main.5cd785fb.css.map",
-    "main.4f82f317.js.map": "/static/js/main.4f82f317.js.map",
-    "787.9fa5f00a.chunk.js.map": "/static/js/787.9fa5f00a.chunk.js.map"
+    "main.css": "/wakanda/static/css/main.bd30f89e.css",
+    "main.js": "/wakanda/static/js/main.8c54f658.js",
+    "static/js/787.9fa5f00a.chunk.js": "/wakanda/static/js/787.9fa5f00a.chunk.js",
+    "static/media/Group 971.png": "/wakanda/static/media/Group 971.0b8bb902d9ff83102838.png",
+    "static/media/ebook.png": "/wakanda/static/media/ebook.8c2dabbb07457a850eae.png",
+    "static/media/Group 1187.png": "/wakanda/static/media/Group 1187.313abb22a3bf73d38dfb.png",
+    "static/media/Group 975.png": "/wakanda/static/media/Group 975.ec7a123c42378b8d1ff5.png",
+    "static/media/Group 951.png": "/wakanda/static/media/Group 951.87d84f4ed0bec34a0b8f.png",
+    "static/media/layer1.png": "/wakanda/static/media/layer1.a7e3e1e9e77a6447e3ce.png",
+    "static/media/global-connection.png": "/wakanda/static/media/global-connection.6b7e645e99708f84d4f3.png",
+    "static/media/email-marketing.png": "/wakanda/static/media/email-marketing.adf4287461c9364a8619.png",
+    "static/media/wakanda.svg": "/wakanda/static/media/wakanda.efb4f6ba1abc5d9e768ae1251d570f07.svg",
+    "index.html": "/wakanda/index.html",
+    "main.bd30f89e.css.map": "/wakanda/static/css/main.bd30f89e.css.map",
+    "main.8c54f658.js.map": "/wakanda/static/js/main.8c54f658.js.map",
+    "787.9fa5f00a.chunk.js.map": "/wakanda/static/js/787.9fa5f00a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cd785fb.css",
-    "static/js/main.4f82f317.js"
+    "static/css/main.bd30f89e.css",
+    "static/js/main.8c54f658.js"
   ]
 }
